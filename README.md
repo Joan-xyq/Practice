@@ -1,2 +1,3 @@
 # Practice
-Exercise of coding
+Exercise of coding .
+Hello. This is my first time to use Github.
